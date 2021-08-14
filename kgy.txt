@@ -1,3 +1,5 @@
+ujabb3
+
  Volume in drive C is A10_Win
  Volume Serial Number is 30CC-66D9
 
@@ -29,18 +31,18 @@
 2021. 08. 14.  19:14    <DIR>          ..
 2021. 08. 14.  19:14               478 applypatch-msg.sample
 2021. 08. 14.  19:14               896 commit-msg.sample
-2021. 08. 14.  19:14             4ÿ655 fsmonitor-watchman.sample
+2021. 08. 14.  19:14             4ï¿½655 fsmonitor-watchman.sample
 2021. 08. 14.  19:14               189 post-update.sample
 2021. 08. 14.  19:14               424 pre-applypatch.sample
-2021. 08. 14.  19:14             1ÿ643 pre-commit.sample
+2021. 08. 14.  19:14             1ï¿½643 pre-commit.sample
 2021. 08. 14.  19:14               416 pre-merge-commit.sample
-2021. 08. 14.  19:14             1ÿ492 prepare-commit-msg.sample
-2021. 08. 14.  19:14             1ÿ374 pre-push.sample
-2021. 08. 14.  19:14             4ÿ898 pre-rebase.sample
+2021. 08. 14.  19:14             1ï¿½492 prepare-commit-msg.sample
+2021. 08. 14.  19:14             1ï¿½374 pre-push.sample
+2021. 08. 14.  19:14             4ï¿½898 pre-rebase.sample
 2021. 08. 14.  19:14               544 pre-receive.sample
-2021. 08. 14.  19:14             2ÿ783 push-to-checkout.sample
-2021. 08. 14.  19:14             3ÿ650 update.sample
-              13 File(s)         23ÿ442 bytes
+2021. 08. 14.  19:14             2ï¿½783 push-to-checkout.sample
+2021. 08. 14.  19:14             3ï¿½650 update.sample
+              13 File(s)         23ï¿½442 bytes
 
  Directory of C:\webfejl\testrepo\.git\info
 
@@ -104,9 +106,9 @@
 
 2021. 08. 14.  19:14    <DIR>          .
 2021. 08. 14.  19:14    <DIR>          ..
-2021. 08. 14.  19:14             1ÿ156 pack-a6b98e5b8a50509961c5afb3ee946a2047b4617d.idx
+2021. 08. 14.  19:14             1ï¿½156 pack-a6b98e5b8a50509961c5afb3ee946a2047b4617d.idx
 2021. 08. 14.  19:14               623 pack-a6b98e5b8a50509961c5afb3ee946a2047b4617d.pack
-               2 File(s)          1ÿ779 bytes
+               2 File(s)          1ï¿½779 bytes
 
  Directory of C:\webfejl\testrepo\.git\refs
 
@@ -145,5 +147,5 @@
                0 File(s)              0 bytes
 
      Total Files Listed:
-              28 File(s)         26ÿ751 bytes
-              47 Dir(s)  78ÿ077ÿ665ÿ280 bytes free
+              28 File(s)         26ï¿½751 bytes
+              47 Dir(s)  78ï¿½077ï¿½665ï¿½280 bytes free
