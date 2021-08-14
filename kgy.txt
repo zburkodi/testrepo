@@ -1,0 +1,149 @@
+ Volume in drive C is A10_Win
+ Volume Serial Number is 30CC-66D9
+
+ Directory of C:\webfejl\testrepo
+
+2021. 08. 14.  19:28    <DIR>          .
+2021. 08. 14.  19:28    <DIR>          ..
+2021. 08. 14.  19:28                 0 kgy.txt
+2021. 08. 14.  19:14                23 README.md
+               2 File(s)             23 bytes
+
+ Directory of C:\webfejl\testrepo\.git
+
+2021. 08. 14.  19:14    <DIR>          hooks
+2021. 08. 14.  19:14    <DIR>          info
+2021. 08. 14.  19:14    <DIR>          logs
+2021. 08. 14.  19:14    <DIR>          objects
+2021. 08. 14.  19:14    <DIR>          refs
+2021. 08. 14.  19:14               295 config
+2021. 08. 14.  19:14                73 description
+2021. 08. 14.  19:14                21 HEAD
+2021. 08. 14.  19:25               137 index
+2021. 08. 14.  19:14               112 packed-refs
+               5 File(s)            638 bytes
+
+ Directory of C:\webfejl\testrepo\.git\hooks
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14               478 applypatch-msg.sample
+2021. 08. 14.  19:14               896 commit-msg.sample
+2021. 08. 14.  19:14             4ÿ655 fsmonitor-watchman.sample
+2021. 08. 14.  19:14               189 post-update.sample
+2021. 08. 14.  19:14               424 pre-applypatch.sample
+2021. 08. 14.  19:14             1ÿ643 pre-commit.sample
+2021. 08. 14.  19:14               416 pre-merge-commit.sample
+2021. 08. 14.  19:14             1ÿ492 prepare-commit-msg.sample
+2021. 08. 14.  19:14             1ÿ374 pre-push.sample
+2021. 08. 14.  19:14             4ÿ898 pre-rebase.sample
+2021. 08. 14.  19:14               544 pre-receive.sample
+2021. 08. 14.  19:14             2ÿ783 push-to-checkout.sample
+2021. 08. 14.  19:14             3ÿ650 update.sample
+              13 File(s)         23ÿ442 bytes
+
+ Directory of C:\webfejl\testrepo\.git\info
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\webfejl\testrepo\.git\logs
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          refs
+2021. 08. 14.  19:14               186 HEAD
+               1 File(s)            186 bytes
+
+ Directory of C:\webfejl\testrepo\.git\logs\refs
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          heads
+2021. 08. 14.  19:14    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\logs\refs\heads
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14               186 main
+               1 File(s)            186 bytes
+
+ Directory of C:\webfejl\testrepo\.git\logs\refs\remotes
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\logs\refs\remotes\origin
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14               186 HEAD
+               1 File(s)            186 bytes
+
+ Directory of C:\webfejl\testrepo\.git\objects
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          info
+2021. 08. 14.  19:14    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\objects\info
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\objects\pack
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14             1ÿ156 pack-a6b98e5b8a50509961c5afb3ee946a2047b4617d.idx
+2021. 08. 14.  19:14               623 pack-a6b98e5b8a50509961c5afb3ee946a2047b4617d.pack
+               2 File(s)          1ÿ779 bytes
+
+ Directory of C:\webfejl\testrepo\.git\refs
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          heads
+2021. 08. 14.  19:14    <DIR>          remotes
+2021. 08. 14.  19:14    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\refs\heads
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\webfejl\testrepo\.git\refs\remotes
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\webfejl\testrepo\.git\refs\remotes\origin
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+2021. 08. 14.  19:14                30 HEAD
+               1 File(s)             30 bytes
+
+ Directory of C:\webfejl\testrepo\.git\refs\tags
+
+2021. 08. 14.  19:14    <DIR>          .
+2021. 08. 14.  19:14    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              28 File(s)         26ÿ751 bytes
+              47 Dir(s)  78ÿ077ÿ665ÿ280 bytes free
